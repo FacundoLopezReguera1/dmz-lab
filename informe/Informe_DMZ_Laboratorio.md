@@ -101,7 +101,3 @@ Durante este laboratorio aprendí a configurar una Zona Desmilitarizada (DMZ) ut
 Como mejora, es conveniente realizar pruebas de conectividad después de cada etapa de la configuración y utilizar comandos de verificación, como `show ip interface brief` y `show access-lists`, para identificar y corregir posibles errores antes de continuar.
 
 ---
-
-### 7. Capturas de evidencia
-
-> Adjunta aquí (o en un PDF anexo) las capturas solicitadas: pings, navegador, comandos `show`, etc.
