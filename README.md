@@ -23,7 +23,7 @@ El objetivo del laboratorio fue implementar una DMZ utilizando un router Cisco I
 ```text
 dmz-lab/
 │
-├── DMZ_Laboratorio.pkt
+├── DMZ_PROJECT.pkt
 ├── README.md
 ├── informe/
 │   └── Informe_DMZ_Laboratorio.md
