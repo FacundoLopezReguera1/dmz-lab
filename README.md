@@ -31,10 +31,10 @@ dmz-lab/
     ├── 01_topologia.png
     ├── 02_show_ip_interface_brief.png
     ├── 03_show_access_lists.png
-    ├── 04_ping_pc_internal_gateway.png¡
-    ├── 05_accesso_web_pc_external.png
+    ├── 04_ping_pc_internal_gateway.png
+    ├── 05_acceso_web_pc_external.png
     ├── 06_bloqueo_dmz_lan.png
-    └── 07_assement_final.png
+    └── 07_assessment_final.png
 ```
 
 ---
